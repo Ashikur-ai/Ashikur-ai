@@ -14,6 +14,7 @@ me as a passionate web developer, is on a journey to master the MERN stack.
 #MERNStack #WebDevelopment #CodeArtisan
 # My current statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashikur-ai&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashikur-ai&theme=default)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashikur-ai&theme=transparent&card_width=817)](https://git.io/streak-stats)
 
 # Technology I work with
