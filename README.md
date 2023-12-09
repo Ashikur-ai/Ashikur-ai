@@ -13,7 +13,5 @@ me as a passionate web developer, is on a journey to master the MERN stack.
 
 #MERNStack #WebDevelopment #CodeArtisan
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashikur-ai&theme=transparent)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashikur-ai&theme=transparent&card_width=817)](https://git.io/streak-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
