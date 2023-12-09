@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/Ashikur-ai/Ashikur-ai/main/github%20banner.png)
+![banner](https://raw.githubusercontent.com/Ashikur-ai/Ashikur-ai/main/github%20banner.png)
 
 ### Hi there 👋,I'm Ashikur Rahman
 
