@@ -1,7 +1,7 @@
 ### Hi there 👋,I'm Ashikur Rahman
 
 
-👋 Hello World! I'm Ashikur, a passionate web developer on a journey to master the MERN stack.
+me as a passionate web developer, is on a journey to master the MERN stack.
 
 💻 Currently fluent in HTML, CSS, and JavaScript, I wield the power of React.js for dynamic front-end experiences. On the server side, I thrive in Express.js and dive deep into MongoDB for data wizardry.
 
