@@ -14,11 +14,6 @@ me as a passionate web developer, is on a journey to master the MERN stack.
 #MERNStack #WebDevelopment #CodeArtisan
 
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on Github Open source 
-- 💬 Ask me about Web Dev 
-- 😄 Pronouns: He 
-- ⚡ Fun fact: Gamimg 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashikur-ai&theme=transparent)](https://git.io/streak-stats)
 
 
