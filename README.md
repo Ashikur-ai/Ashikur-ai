@@ -1,12 +1,16 @@
 ### Hi there 👋,I'm Ashikur Rahman
 #### Web Developer
 
-### This is my Portfolio website. Do check. https://ashikur-ai.github.io/web-portfolio/
+👋 Hello World! I'm Ashikur, a passionate web developer on a journey to master the MERN stack.
 
+💻 Currently fluent in HTML, CSS, and JavaScript, I wield the power of React.js for dynamic front-end experiences. On the server side, I thrive in Express.js and dive deep into MongoDB for data wizardry.
 
-I'm fully passionate about web development. I will make some real-life projects and live on Github. My favorite carrier is MERN stack development.
+🚀 Aspiring to reach new heights in web development, I'm on the quest to become a senior web developer. My code is my canvas, and I'm committed to creating clean, scalable, and innovative solutions.
 
-Skills: REACT / JS / BOOTSTAP/ HTML / CSS / C / Python / Machine Learning / Image Processing / Matlab
+🌐 Let's connect the dots in the digital realm! Open to collaborations and always hungry for new challenges. Check out my repositories and join me in shaping the future of the web!
+
+#MERNStack #WebDevelopment #CodeArtisan
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React 
