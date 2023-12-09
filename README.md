@@ -16,4 +16,4 @@ me as a passionate web developer, is on a journey to master the MERN stack.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashikur-ai&theme=transparent&card_width=817)](https://git.io/streak-stats)
 
 # Technology I work with
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,react,tailwind,mongodb,express,nodejs)](https://skillicons.dev)
